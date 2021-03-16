@@ -1,0 +1,24 @@
+# Intruções iniciais.
+
+1 - Baixar a fonte **Fira Code Retina** (https://github.com/tonsky/FiraCode)
+
+# Aba de Extensões:
+
+2 - Instalar e Aplicar a extensão - **Color Highlight** 
+
+3 - Instalar Thema  - **Winter is Coming Theme** (Eu utilizo o Dark Blue - No Italics)
+
+4 - Instalar e Aplicar a extensão - **Debugger for Chrome**
+
+5 - Instalar e Aplicar a extensão - **Prettier - Code Formatter**
+
+6 - Instalar e Aplicar a extensão **vscode-icons**
+
+
+
+# Passo a Passo para aplicação:
+
+1 - Com a tela inicial do VSCode aberto, aperte F1 no seu teclado - vá na opção **Preferences : Open Settings JSON**
+
+2 - Cole as configurações.
+
